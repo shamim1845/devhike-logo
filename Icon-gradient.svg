@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 80 80">
     <defs>
         <linearGradient id="SvgjsLinearGradient2806" x1="0" y1="0" x2="0" y2="1">
-            <stop id="SvgjsStop2807" stop-color="#905e26" offset="0"></stop>
-            <stop id="SvgjsStop2808" stop-color="#f5ec9b" offset="0.5"></stop>
-            <stop id="SvgjsStop2809" stop-color="#905e26" offset="1"></stop>
+            <stop id="SvgjsStop2807" stop-color="#06b156" offset="0"></stop>
+            <stop id="SvgjsStop2808" stop-color="#bd8f06" offset="0.5"></stop>
+            <stop id="SvgjsStop2809" stop-color="#06b156" offset="1"></stop>
         </linearGradient>
     </defs>
     <path
